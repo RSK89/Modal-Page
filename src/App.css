@@ -1,0 +1,19 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+.account{
+  background-color: blue;
+  height:80px;
+  width:200px;
+  color:white;
+}
+.btn{
+  background-color:yellow;
+  color:black;
+  width:120px;
+  height:40px;
+  border-color:blue;
+  border-width:3px;
+}
